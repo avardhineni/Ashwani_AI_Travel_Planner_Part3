@@ -1,0 +1,8 @@
+[
+  {"category":"flights", "label":"User-observed round-trip fare", "quantity":1, "unit_cost_inr":null, "source":"provider name", "source_url":"", "observed_at":""},
+  {"category":"accommodation", "label":"Hotel per night", "quantity":6, "unit_cost_inr":null, "source":"provider name", "source_url":"", "observed_at":""},
+  {"category":"transport", "label":"Local travel total", "quantity":1, "unit_cost_inr":null, "source":"provider name", "source_url":"", "observed_at":""},
+  {"category":"food", "label":"Food per day", "quantity":7, "unit_cost_inr":null, "source":"user estimate", "source_url":"", "observed_at":""},
+  {"category":"activities", "label":"Attractions total (0 if free)", "quantity":1, "unit_cost_inr":null, "source":"user estimate", "source_url":"", "observed_at":""},
+  {"category":"fees", "label":"Visa and insurance (0 if not applicable)", "quantity":1, "unit_cost_inr":null, "source":"official fees", "source_url":"", "observed_at":""}
+]

@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+**/__pycache__/
+*.py[cod]
+.venv/
+venv/
+ashwani-travel-agent/
+aviationstack-mcp/
+travel_plans/
+*.pdf
+.pytest_cache/
+.coverage
+.vscode/
+.idea/
+.DS_Store

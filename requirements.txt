@@ -1,0 +1,14 @@
+# Install Python 3.11 or 3.12. Versions are upper-bounded for compatibility; see README.
+langgraph>=1.0,<2
+langgraph-checkpoint-postgres>=3,<5
+langchain-core>=1,<2
+langchain-groq>=1,<2
+langchain-mcp-adapters>=0.2,<0.4
+mcp>=1.10,<2
+psycopg[binary,pool]>=3.2,<4
+python-dotenv>=1,<2
+pydantic>=2,<3
+requests>=2.31,<3
+streamlit>=1.40,<2
+reportlab>=4,<5
+pytest>=8,<10
